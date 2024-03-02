@@ -1,0 +1,5 @@
+#!/Volumes/Roop/Training/end_to_end_ML/mlenv/bin/python3.12
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
