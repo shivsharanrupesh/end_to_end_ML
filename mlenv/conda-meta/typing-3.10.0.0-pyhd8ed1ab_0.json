@@ -1,0 +1,33 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3"
+  ],
+  "extracted_package_dir": "/Users/rupeshshivsharan/anaconda3/pkgs/typing-3.10.0.0-pyhd8ed1ab_0",
+  "files": [],
+  "fn": "typing-3.10.0.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "PSF",
+  "link": {
+    "source": "/Users/rupeshshivsharan/anaconda3/pkgs/typing-3.10.0.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "e6573ac68718f17b9d4f5c8eda3190f2",
+  "name": "typing",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/rupeshshivsharan/anaconda3/pkgs/typing-3.10.0.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "typing",
+  "sha256": "ec1cfe0b7dc55a22223562cad799e0b16d122dab611c9923b6068d27a784ba2f",
+  "size": 7296,
+  "subdir": "noarch",
+  "timestamp": 1619901326267,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/typing-3.10.0.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "3.10.0.0"
+}

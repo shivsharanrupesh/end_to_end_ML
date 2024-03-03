@@ -1,0 +1,44 @@
+{
+  "build": "h7461747_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "libsqlite 3.45.1 h92b6c6a_0",
+    "libzlib >=1.2.13,<1.3.0a0",
+    "ncurses >=6.4,<7.0a0",
+    "readline >=8.2,<9.0a0"
+  ],
+  "extracted_package_dir": "/Users/rupeshshivsharan/anaconda3/pkgs/sqlite-3.45.1-h7461747_0",
+  "files": [
+    "bin/sqlite3"
+  ],
+  "fn": "sqlite-3.45.1-h7461747_0.conda",
+  "license": "Unlicense",
+  "link": {
+    "source": "/Users/rupeshshivsharan/anaconda3/pkgs/sqlite-3.45.1-h7461747_0",
+    "type": 1
+  },
+  "md5": "239ff6ffc3ee45898db19e3cbbf40f88",
+  "name": "sqlite",
+  "package_tarball_full_path": "/Users/rupeshshivsharan/anaconda3/pkgs/sqlite-3.45.1-h7461747_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/sqlite3",
+        "path_type": "hardlink",
+        "sha256": "27f8d4e445d200e935eaa9b0e732415fb09c529d268c3222d7b177a374bd7474",
+        "sha256_in_prefix": "27f8d4e445d200e935eaa9b0e732415fb09c529d268c3222d7b177a374bd7474",
+        "size_in_bytes": 1964528
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ce0908a02a1965854dde0022f5ba9b986324077ba4835a3c990463ed762e6e8f",
+  "size": 901237,
+  "subdir": "osx-64",
+  "timestamp": 1707495392094,
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.45.1-h7461747_0.conda",
+  "version": "3.45.1"
+}
